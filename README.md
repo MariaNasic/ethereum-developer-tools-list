@@ -300,6 +300,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [EWF Parity](https://github.com/energywebfoundation/energyweb-ui) - Energy Web Foundation client for the Tobalaba test network
 * [Quorum](https://github.com/jpmorganchase/quorum) - A permissioned implementation of Ethereum supporting data privacy by [JP Morgan](https://jpmorgan.com/quorum)
 * [Mana](https://github.com/mana-ethereum/mana) - Ethereum full node implementation written in Elixir.
+* [Getblock](https://getblock.io) - Blockchain-as-a-Service platform that provides instant API access to full nodes from multiple blockchains.
 * [Chainstack](https://chainstack.com/) - A managed service providing elastic and dedicated Geth nodes
 * [QuickNode](https://quicknode.com/) - Blockchain developer cloud with API access and node-as-a-service.
 * [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain

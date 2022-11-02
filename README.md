@@ -306,6 +306,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [NOWNodes](https://nownodes.io) - Provide access to ETH node (and 48+ more) and Block Explorer. Get free API key to test blockchain-as-a-service solution
 * [Spice](https://spice.xyz) - Data and AI managed service, with SQL, API, and Node-as-a-Service.
 * [InfStones](https://infstones.com/) - Blockchain node service provider, with support for over 60 blockchain protocols.
+* [GetBlock](https://getblock.io) - Blockchain-as-a-Service platform that provides instant API access to full nodes from multiple blockchains.
 
 
 #### Storage
